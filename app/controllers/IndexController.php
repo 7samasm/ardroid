@@ -4,7 +4,6 @@
  * User: HA
  * Date: 2/17/2018
  * Time: 3:46 PM
- * mm
  */
 
 namespace mvc\app\controllers;
